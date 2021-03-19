@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikhillab
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java and Spring
-- 📫 How to reach me [a link](https://www.linkedin.com/in/nikhil-kumar-52700b194/)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/nikhil-kumar-52700b194/)
 
 <!---
 nikhillab/nikhillab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
